@@ -1,0 +1,6 @@
+train: D:\PycharmProjects\computer_controller\make_different_back\16_real_dataset\train
+val: D:\PycharmProjects\computer_controller\make_different_back\16_real_dataset\valid
+test: D:\PycharmProjects\computer_controller\make_different_back\16_real_dataset\test
+
+nc: 4
+names: ['0', '1', '2', '3'] #0：警身体、1：警头、2：匪身体、3：匪头

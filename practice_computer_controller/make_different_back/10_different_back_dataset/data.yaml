@@ -1,0 +1,10 @@
+# YOLO Dataset
+
+path: D:/PycharmProjects/computer_controller/make_different_back/10_different_back_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: body
+  1: head

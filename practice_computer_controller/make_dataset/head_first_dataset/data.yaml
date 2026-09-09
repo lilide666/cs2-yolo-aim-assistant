@@ -1,0 +1,7 @@
+path: D:/PycharmProjects/computer_controller/make_dataset/head_first_dataset 
+
+train: train/images 
+val: val/images 
+
+names: 
+  0: person 

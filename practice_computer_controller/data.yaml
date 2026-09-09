@@ -1,0 +1,11 @@
+
+path: D:\PycharmProjects\computer_controller\dataset_predict
+
+train: images/train
+
+val: images/val
+
+
+names:
+  0: ct_head
+  1: t_head

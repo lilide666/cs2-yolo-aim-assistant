@@ -1,0 +1,8 @@
+path: D:/PycharmProjects/computer_controller/make_dataset/640_head_body_dataset_train
+
+train: images/train
+val: images/val
+
+names:
+  0: body
+  1: head

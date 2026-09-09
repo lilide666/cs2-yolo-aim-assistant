@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.cache
+
+# IDE
+.idea/
+.vscode/
+
+# 录屏视频（video3.mp4 约 142MB，超出 GitHub 单文件 100MB 限制）
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# TensorRT 引擎（与本机 GPU / TensorRT 版本绑定，可用 weights 下的 .pt/.onnx 重新导出）
+*.engine
+*.trt
+
+# 运行时生成的报告输出
+/aim_reports/
